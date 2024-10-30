@@ -1,0 +1,81 @@
+.cf7rgk_setting .field-notice.field-notice-alert.field-notice-hidden {
+    padding: 10px;
+    background-color: #ffbac7;
+    border-radius: 12px;
+    margin: 10px 0px 10px 0px;
+}
+.cf7rgk_setting .field-notice.field-notice-alert.alert-notice {
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+    color: #8a6d3b;
+    border: 1px solid #8a6d3b;
+    background-color: #fcf8e3;
+}
+.cf7rgk-inner-input {
+    padding: 8px 0;
+}	
+.cf7rgk_setting [type='text']
+{
+	height: 32px;
+	width:100%;
+}
+
+.cf7rgk-fildes .select2-selection {
+    height: 42px;
+}
+
+.cf7rgk-fildes .select2-selection .select2-selection__rendered {
+    height: 100%;
+    line-height: 3;
+}
+
+.cf7rgk-fildes .select2-selection .select2-selection__arrow {
+    height: 100%;
+}
+
+.cf7rgk-inner-input .cf7rgk-fildes .select2 {min-width: 300px;}
+
+.cf7rgk_setting hr {
+    margin: 20px 0 12px;
+}
+.cf7rgk-inner-input.cf7rgk-external {
+    display: none;
+}
+.cf7rgk-radio input {
+    margin: 0 8px 0 0;
+}
+
+.cf7rgk-radio {
+    display: inline-flex;
+    align-items: center;
+}
+
+.cf7rgk-radio label {
+    margin-right: 22px;
+}
+
+.cf7rgk-inner-input.cf7rgk-checkbox label {
+    vertical-align: baseline;
+}
+
+.cf7rgk-inner-input.cf7rgk-checkbox .cf7rgk-fields {
+    display: block;
+    margin-top: 10px;
+}
+
+.cf7rgk-fildes.cf7rgk-radio {
+    margin-top: 10px;
+}
+
+#cf7rgk-redirect-pane .cf7rgk-tags {
+    margin: 5px 0 8px 0;
+}
+
+#cf7rgk-redirect-pane span.mailtag {
+  display: inline-block;
+  margin: 0 0 0 4px;
+  padding: 1px 2px;
+  cursor: pointer;
+  color: #000000f2;
+}
